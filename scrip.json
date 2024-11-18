@@ -1,0 +1,19 @@
+[
+  {
+    "Fasi": [
+      {
+        "NomeFase": "Test2",
+        "Comandi": [
+          "sfc /scannow"
+        ]
+      }
+    ],
+    "Info": {
+      "NomeScript": "Test2",
+      "FasiTot": 1,
+      "Autore": "Test2"
+    },
+    "Comandi": null,
+    "NomeFase": null
+  }
+]
