@@ -1,10 +1,17 @@
 [
   {
-    "Fasi": [],
+    "Fasi": [
+      {
+        "NomeFase": "FASE 1 OTTIMIZZAZIONE",
+        "Comandi": [
+          "sfc /scannow"
+        ]
+      }
+    ],
     "Info": {
-      "NomeScript": "",
+      "NomeScript": "TEST",
       "FasiTot": 1,
-      "Autore": ""
+      "Autore": "TEST1"
     }
   }
 ]
