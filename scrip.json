@@ -13,7 +13,10 @@
       "FasiTot": 1,
       "Autore": "Test2"
     },
-    "Comandi": null,
+        "Comandi": [
+          "sfc /scannow"
+          "diskpart"
+        ]
     "NomeFase": null
   }
 ]
