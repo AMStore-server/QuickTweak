@@ -1,0 +1,26 @@
+[
+  {
+    "Fasi": [
+      {
+        "NomeFase": "SFC SCANNOW",
+        "Comandi": [
+          "sfc /scannow"
+        ]
+      },
+      {
+        "NomeFase": "TEST",
+        "Comandi": [
+          "sfc /scannow",
+          "diskpart"
+        ]
+      }
+    ],
+    "Info": {
+      "NomeScript": "AUTORE",
+      "FasiTot": 2,
+      "Autore": "TEST"
+    },
+    "Comandi": null,
+    "NomeFase": null
+  }
+]
