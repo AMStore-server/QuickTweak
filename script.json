@@ -1,0 +1,19 @@
+[
+  {
+    "Fasi": [
+      {
+        "NomeFase": "tes",
+        "Comandi": [
+          "test"
+        ]
+      }
+    ],
+    "Info": {
+      "NomeScript": "test",
+      "FasiTot": 1,
+      "Autore": "test"
+    },
+    "Comandi": null,
+    "NomeFase": null
+  }
+]
